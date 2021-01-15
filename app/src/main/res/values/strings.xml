@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wangy Tool</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="nama">Nama</string>
+    <string name="wangy_tool">WANGY TOOL ❤</string>
+    <string name="nama_yang_akan_digunakan">Nama yang akan digunakan:</string>
+    <string name="hasil_disini">Hasil disini</string>
+    <string name="hasil_akan_ditampilkan_dibawah">HASIL AKAN DITAMPILKAN DIBAWAH</string>
+    <string name="template_1">TEMPLATE 1</string>
+    <string name="salin">SALIN</string>
+</resources>

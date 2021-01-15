@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25479729622",
+    "project_id": "wangytools",
+    "storage_bucket": "wangytools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25479729622:android:765158914b3c88251b1477",
+        "android_client_info": {
+          "package_name": "com.willmd.wangytool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25479729622-5a306rfcrv0hki5tnm06ueq2fqfeuavg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu55RcNwz_GFG0x0kKUtKPBkDPsIf0vaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25479729622-5a306rfcrv0hki5tnm06ueq2fqfeuavg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
